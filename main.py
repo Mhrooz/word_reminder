@@ -9,3 +9,4 @@ for column in range(1, 233):
         print(sheet_ranges[row+str(column)].value)
 print('Gut gemacht!')
 print('Gut gemacht!')
+print('Gut gemacht!')
