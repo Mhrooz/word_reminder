@@ -8,3 +8,4 @@ for column in range(1, 233):
     for row in string.ascii_lowercase[:3]:
         print(sheet_ranges[row+str(column)].value)
 print('Gut gemacht!')
+print('Gut gemacht!')
